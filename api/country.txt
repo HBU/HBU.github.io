@@ -1,2 +1,27 @@
 http://guolin.tech/api/china
 json API
+
+http://blog.csdn.net/qq_20545159/article/details/47903513
+20多个常用的免费WebService接口
+
+https://www.cnblogs.com/scy251147/p/4276011.html
+Android调用基于.net的WebService
+
+https://www.cnblogs.com/superpang/p/4911422.html
+实现android调用webservice
+
+http://blog.csdn.net/zhydate/article/details/48368425
+Android 访问C#.Net Webservice (简单例子适合初学者)
+
+=============
+对 Apache Tomcat + PHP/java 配置服务器一致很挠头，感觉很散乱，不方便。
+拟计划采用IIS + C#.net 解决该问题。
+
+目标：
+采用 Visual Studio 开发 基于 IIS 的 webservice接口。
+服务器端使用SQL server
+提供JSON接口给用户提供服务。
+
+客户端：
+Android 、iOS 均可访问，可完成基本的“登录”功能。
+进一步完成数据库的增删改查。
