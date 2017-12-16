@@ -1,4 +1,4 @@
-# 好好学习天天向上
+# 好好学习，天天向上
 
 ##### [移动创新竞赛](https://hbu.github.io/MobileTeminalContest/)
 ##### [Android例程](https://github.com/HBU/AndroidDemo)
