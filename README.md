@@ -5,4 +5,4 @@
 ##### [数据库](https://hbu.github.io/DataBase/)
 ##### [C#](https://github.com/HBU/C-Sharp.net)
 ##### [Objective-C](https://github.com/HBU/Apple)
-##### [2108毕业设计](HBU.github.io/html/2018.md)
+##### [2108毕业设计](https://github.com/HBU/HBU.github.io/blob/master/html/2018.md)
